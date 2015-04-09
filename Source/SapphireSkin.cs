@@ -10,7 +10,7 @@ namespace SapphireSkin
         {
             get
             {
-                return "Simple and Clean Skin";
+                return "Simple & Clean - Skin";
             }
         }
 
