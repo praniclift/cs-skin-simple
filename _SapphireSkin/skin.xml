@@ -1,0 +1,11 @@
+<SapphireSkin name="SimpleAndClean" author="PranicLift">
+	<Module class="MainMenu">Modules/OptionsMenu.xml</Module>
+
+	<SpriteAtlas name="BackgroundsAtlas">
+		<Sprite name="DefaultPanelBackground" width="30" height="30">Sprites/Example.png</Sprite>
+	</SpriteAtlas>
+	
+	<Colors>
+		<Color name="PanelColor">#FFFFFF</Color>
+	</Colors>
+</SapphireSkin>
